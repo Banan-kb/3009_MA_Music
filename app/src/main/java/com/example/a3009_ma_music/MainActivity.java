@@ -6,7 +6,7 @@ import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-
+//a comment alksdklekjfd
 public class MainActivity extends AppCompatActivity {
 
     Button bttnPlayer;
